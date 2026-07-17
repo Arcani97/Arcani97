@@ -29,5 +29,5 @@ I'm an electrotechnical technician and electrician in Rio de Janeiro, as well as
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Arcani97&layout=compact&langs_count=4&hide_values=true&theme=tokyonight" width="40%" alt="Most Used Languages" />
 </p>
 
-#### Support my work | Apoie meu trabalho
+#### Support my work
 [![pantreon](https://img.shields.io/badge/Patreon-Arcani97-40217e?style=flat&logo=patreon&labelColor=242526)](https://www.patreon.com/cw/Arcani97)
